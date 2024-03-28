@@ -1,5 +1,5 @@
 ### Hello! Welcome to my daily working place 👋
-😄I'm Khanh Nguyen. I’m currently learning about data analysis
+😄I'm Khanh Nguyen. I’m currently learning about data analysis <br>
 I love everything related to programming
 
 <!--
