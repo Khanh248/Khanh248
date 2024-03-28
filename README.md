@@ -1,6 +1,6 @@
 ### Hello! Welcome to my daily working place 👋
-😄I'm Khanh Nguyen. I’m currently learning about data analysis <br>
-I love everything related to programming
+😄 I'm Khanh Nguyen. I’m currently learning about data analysis <br>
+ - I love everything related to programming
 
 <!--
 **Khanh248/Khanh248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
